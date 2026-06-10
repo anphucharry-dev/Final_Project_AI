@@ -2,7 +2,7 @@ import os
 
 # CẤU HÌNH ĐƯỜNG DẪN MODEL
 # Nếu chạy trên máy cá nhân/Streamlit, để model cùng thư mục với code
-MODEL_PATH = "canteen_model_STAGE1.keras" 
+MODEL_PATH = "canteen_model_STAGE2_latest.keras"
 
 # THÔNG SỐ ẢNH DÀNH CHO EFFICIENTNET
 IMG_SIZE = (224, 224)
